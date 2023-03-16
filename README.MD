@@ -1,0 +1,2 @@
+essa landing page faz a apresentação dos principais carros de luxo da volkswagen do Brasil e também redireciona para o site,o conteúdo foi criado fora do html utilizando um objeto e o javascript puro apenas algumas marcações foram feitas em html.
+ obs:a imagem do site pronto esta na página img
